@@ -4,6 +4,9 @@
 .container h2 {
     margin-bottom: 20px;
 }
+.first-midle-con {
+    background-color:whitesmoke
+}
 .orange-bg {
     background-color: #fceae8;
     border-radius: 5px;
@@ -47,4 +50,18 @@
 .card {
     border: none;
     box-shadow: 5px 5px 10px lightgray;
+}
+.buy-now-btn-card {
+    background-color: #2e2e2e;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 15px;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin-top: 5px;
+    transition: 0.30s;
+}
+.buy-now-btn-card:hover {
+    background-color: #FF136F;
 }
