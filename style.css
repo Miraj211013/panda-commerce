@@ -5,7 +5,8 @@
     margin-bottom: 20px;
 }
 .first-midle-con {
-    background-color:whitesmoke
+    background-color:whitesmoke;
+    padding: 9px 0px;
 }
 .orange-bg {
     background-color: #fceae8;
@@ -64,4 +65,12 @@
 }
 .buy-now-btn-card:hover {
     background-color: #FF136F;
+}
+#contact-us {
+    height: 300px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+footer {
+    text-align: center;
 }
